@@ -1,18 +1,18 @@
 table {
-	margin: auto;
+    margin: auto;
     border-radius: 5px;
 }
 td {
-	padding: 5px;
+    padding: 5px;
 }
 table, tr, td {
-	border: 2px solid black;
+    border: 2px solid black;
     border-collapse: collapse;
 }
 body {
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-	padding: 20px;
-	width: 400px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    width: 400px;
     border: 2px solid black;
     margin: 50px auto 0 auto;
     text-align: center;
@@ -20,7 +20,7 @@ body {
     box-shadow: 5px 10px 8px 5px #888888;
 }
 button {
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: white;
     border-style: 2px solid black;
     border-radius: 5px;
